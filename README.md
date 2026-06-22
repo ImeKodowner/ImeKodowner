@@ -5,7 +5,6 @@
 
   <p>
     <a href="https://www.simonhe.me"><img src="https://img.shields.io/badge/Website-simonhe.me-1f6feb?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
-    <a href="https://github.com/Simon-He95"><img src="https://img.shields.io/github/followers/Simon-He95?style=flat-square&label=Followers&logo=github" alt="GitHub followers" /></a>
     <a href="https://twitter.com/simon_he1995"><img src="https://img.shields.io/badge/X-@simon__he1995-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://juejin.cn/user/4319334608151533"><img src="https://img.shields.io/badge/Juejin-掘金-1e80ff?style=flat-square" alt="Juejin" /></a>
     <a href="https://discord.gg/x3MSjy5S5G"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
