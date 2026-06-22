@@ -42,50 +42,7 @@ const simon = {
 </table>
 
 ---
-
-## ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/markstream-vue">markstream-vue</a></h3>
-      <p>A Vue 3 renderer built for AI-powered streaming Markdown: progressive Mermaid, Monaco/Shiki code blocks, KaTeX, virtual rendering, and real-time updates without jitter.</p>
-      <p>
-        <a href="https://github.com/Simon-He95/markstream-vue"><img src="https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social" alt="stars" /></a>
-        <a href="https://www.npmjs.com/package/markstream-vue"><img src="https://img.shields.io/npm/v/markstream-vue?style=flat-square&logo=npm" alt="npm" /></a>
-      </p>
-      <p><code>Vue 3</code> <code>AI UI</code> <code>Markdown</code> <code>Mermaid</code> <code>KaTeX</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/common-intellisense">common-intellisense</a></h3>
-      <p>Universal component IntelliSense for multiple UI libraries. It provides smart completion for props, events, slots, types, and instance methods.</p>
-      <p>
-        <a href="https://github.com/Simon-He95/common-intellisense"><img src="https://img.shields.io/github/stars/Simon-He95/common-intellisense?style=social" alt="stars" /></a>
-        <a href="https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense"><img src="https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code Marketplace" /></a>
-      </p>
-      <p><code>VS Code</code> <code>IntelliSense</code> <code>UI Libraries</code> <code>DX</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/transformToUnoCSS">transformToUnoCSS</a></h3>
-      <p>Convert traditional CSS into UnoCSS utilities. Useful for migrating copied styles, design drafts, and legacy CSS snippets into atomic CSS workflows.</p>
-      <p>
-        <a href="https://github.com/Simon-He95/transformToUnoCSS"><img src="https://img.shields.io/github/stars/Simon-He95/transformToUnoCSS?style=social" alt="stars" /></a>
-      </p>
-      <p><code>UnoCSS</code> <code>CSS Transform</code> <code>Atomic CSS</code> <code>Migration</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/unot">unot</a></h3>
-      <p>UnoCSS tools for VS Code. Hover CSS hints, shortcut conversion, uno-magic syntax expansion, and faster atomic CSS authoring.</p>
-      <p>
-        <a href="https://github.com/Simon-He95/unot"><img src="https://img.shields.io/github/stars/Simon-He95/unot?style=social" alt="stars" /></a>
-      </p>
-      <p><code>UnoCSS</code> <code>VS Code</code> <code>Productivity</code> <code>Tooling</code></p>
-    </td>
-  </tr>
-</table>
-
+ 
 ### More Open Source
 
 | Project | What it does |
