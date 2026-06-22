@@ -55,15 +55,6 @@ m
 ---
  
 
-## ☕ Support
-
-If my projects help your workflow, a star, issue, PR, feedback, or sponsorship means a lot.
-
-<div align="center">
-  <a href="https://github.com/Simon-He95/sponsor"><img src="https://img.shields.io/badge/Sponsor-30363d?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor" /></a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=Simon-He95&style=flat-square&color=1f6feb" alt="Profile views" />
-</div>
 
 <!--
 **ImeKodowner/ImeKodowner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
