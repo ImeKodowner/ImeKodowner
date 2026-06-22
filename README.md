@@ -43,15 +43,7 @@ const simon = {
 
 ---
  
-### More Open Source
-
-| Project | What it does |
-| --- | --- |
-| [`lazy-js-utils`](https://github.com/Simon-He95/lazy-js-utils) | JavaScript / TypeScript utility toolkit for practical browser and DOM workflows. |
-| [`vscode-tailwind-magic`](https://github.com/Simon-He95/vscode-tailwind-magic) | TailwindCSS productivity extension with shorthand expansion and smart conversion. |
-| [`simon.me`](https://github.com/Simon-He95/simon.me) | Personal blog and content platform. |
-| [`browser-compress-image`](https://github.com/Simon-He95/browser-compress-image) | Browser-side image compression experiment; archived and kept for reference. |
-
+m
 ---
 
 ## 🧩 Tech Stack
@@ -61,30 +53,7 @@ const simon = {
 </div>
 
 ---
-
-## 📊 GitHub Overview
-
-<div align="center">
-  <img src="./github-metrics/base.svg" alt="GitHub base metrics" width="49%" />
-  <img src="./github-metrics/languages.indepth.svg" alt="Language metrics" width="49%" />
-</div>
-
-<details>
-  <summary><b>More activity graphs</b></summary>
-  <br />
-  <div align="center">
-    <img src="./github-metrics/activity.svg" alt="Activity graph" width="100%" />
-    <img src="./github-metrics/calendar.full.svg" alt="Contribution calendar" width="100%" />
-    <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" width="100%" />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
-      <img alt="GitHub contribution snake" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
-</details>
-
----
+ 
 
 ## ☕ Support
 
